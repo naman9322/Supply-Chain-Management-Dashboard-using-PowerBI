@@ -68,25 +68,6 @@ To evaluate and enhance supply chain performance through:
 *  Revenue by SKU and Product Category
 
 ---
-
-##  How to Use
-
-### Python Analysis
-
-1. Open Jupyter Notebook
-2. Run:
-
-```bash
-jupyter notebook "SUPPLY CHAIN MANAGEMENT.ipynb"
-```
-
-### Power BI Dashboard
-
-1. Open Power BI Desktop
-2. Load file: `supply_chain.pbix`
-
----
-
 ##  Potential Improvements
 
 * Connect with live order data using APIs
