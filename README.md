@@ -33,16 +33,6 @@ To evaluate and enhance supply chain performance through:
 
 ---
 
-##  Project Files
-
-| File Name                       | Description                                                 |
-| ------------------------------- | ----------------------------------------------------------- |
-| `SUPPLY CHAIN MANAGEMENT.ipynb` | Python notebook for data processing and analysis            |
-| `supply_chain.pbix`             | Power BI dashboard for visualizing supply chain performance |
-| `supply_chain_data.csv`         | Raw dataset used for analysis                               |
-
----
-
 ##  Key Analysis Steps
 
 ###  Python (Jupyter Notebook)
